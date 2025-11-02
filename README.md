@@ -1,5 +1,10 @@
 #  Smart HVAC Energy Prediction using Machine Learning
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Data Quality](https://img.shields.io/badge/quality-95%2F100-brightgreen.svg)
+
 ### Sustainable Energy Management using AI
 
 This project applies **Machine Learning (ML)** and **Data Analysis in Python** to predict the **energy consumption of HVAC (Heating, Ventilation, and Air Conditioning)** systems based on environmental and temporal conditions.
