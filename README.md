@@ -82,13 +82,14 @@ Supporting green building automation systems
 ---
 
 ### Tools & Technologies
+---
 Category	Tools/Frameworks
 Programming	Python 3.x
 Libraries	Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Environment	Jupyter Notebook
 Dataset	UCI Energy Data
 ML Task	Regression / Forecasting
----
+
 
 ### References
 
@@ -97,7 +98,7 @@ UCI ML Repository – Appliances Energy Prediction Dataset
 Scikit-learn Documentation
 
 Matplotlib & Seaborn Docs
----
+
 
 ### Status
 
