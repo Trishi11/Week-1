@@ -8,7 +8,7 @@ By accurately forecasting HVAC energy usage, buildings can **optimize power cons
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 ###  Objective
 Develop a machine learning model that predicts **energy consumption** (in Wh) of home appliances (mainly HVAC systems) using:
@@ -43,7 +43,7 @@ The model helps **smart buildings** or **facility managers** plan energy usage e
 
 ---
 
-## ⚙️ Environment Setup
+## Environment Setup
 
 ### Create Virtual Environment
 ```bash
@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ### Launch Jupyter Notebook
 jupyter notebook
 
-
+---
 
  Example Insights
 
@@ -68,7 +68,7 @@ High outdoor temperatures trigger higher HVAC energy usage.
 
 Weekdays show different consumption trends than weekends.
 
-
+---
 
 ### Sustainability Impact
 
@@ -79,6 +79,7 @@ Predicting and optimizing energy usage
 Reducing wasteful HVAC operation
 
 Supporting green building automation systems
+---
 
 ### Tools & Technologies
 Category	Tools/Frameworks
@@ -87,7 +88,7 @@ Libraries	Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Environment	Jupyter Notebook
 Dataset	UCI Energy Data
 ML Task	Regression / Forecasting
-
+---
 
 ### References
 
@@ -96,6 +97,7 @@ UCI ML Repository – Appliances Energy Prediction Dataset
 Scikit-learn Documentation
 
 Matplotlib & Seaborn Docs
+---
 
 ### Status
 
